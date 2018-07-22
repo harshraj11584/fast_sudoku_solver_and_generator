@@ -18,4 +18,4 @@ The tested samples are included in the *take_input()* function, instructions to 
 *Intel® Core™ i5-7200U CPU @ 2.50GHz × 4*, *12 GB DDR4 RAM*, *Ubuntu 18.04 LTS (64 bit)*
 
 
-*This is the fastest Sudoku solver on Github at the time of submission, and was made as a sample fun project when I joined Github, in the Freshman year of Undergrad.*
+*This is the fastest Sudoku solver on Github at the time of submission, and was made as a sample fun project when I joined Github, just after completing Freshman year of Undergrad.*
