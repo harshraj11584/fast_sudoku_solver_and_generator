@@ -1,11 +1,9 @@
 ### sudoku_solver
-A Simple, Fast C++ 9X9 Sudoku Solver Program
+Blazing Fast C++ 9X9 Sudoku Solver Program
 
-Uses stdin for input, and is able to solve any 9X9 Sudoku Grid (of any difficulty) instantly.
+**All 9X9 Sudokus are solved, in order of 10 milliseconds**.
 
-It can solve any grid even if it has single or multiple solutions, and can produce a complete solved grid for the user even if the user enters an incomplete question.
-
-All 9X9 Sudokus are solved in order of 0.01 seconds.
+**It can also generate a solved Sudoku grid for the user if the user enters an incomplete question.**
 
 ### Test Results
 
