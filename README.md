@@ -1,5 +1,5 @@
 ### sudoku_solver
-A Simple and Fast C++ 9X9 Sudoku Solver Program
+A Simple, Fast C++ 9X9 Sudoku Solver Program
 
 Uses stdin for input, and is able to solve any 9X9 Sudoku Grid (of any difficulty) instantly.
 
@@ -18,4 +18,3 @@ The tested samples are included in the *take_input()* function, instructions to 
 
 ### **Testing Machine Stats:**
 *Intel® Core™ i5-7200U CPU @ 2.50GHz × 4*, *12 GB DDR4 RAM*, *Ubuntu 18.04 LTS (64 bit)*
-
