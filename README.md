@@ -14,4 +14,3 @@ These are results against the hardest Sudokus on the Internet:
 
 The tested samples are included in the *take_input()* function, instructions to verify these are included in the *take_input()* function.
 
-*This is one of the fastest Sudoku solvers on Github at the time of submission, and was made as a sample fun project when I joined Github, just after completing Freshman year of Undergrad.*
